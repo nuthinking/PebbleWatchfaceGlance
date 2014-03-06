@@ -1,0 +1,27 @@
+{
+  "uuid": "43a1e739-c3e4-4dbc-ac9c-009a235e7633",
+  "shortName": "Glance",
+  "longName": "Glance",
+  "companyName": "Nuthinking",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/glance_watch_icon.png"
+      },
+      {
+        "type": "png",
+        "name": "GREY_PATTERN",
+        "file": "images/grey_pattern.png"
+      }
+    ]
+  }
+}
